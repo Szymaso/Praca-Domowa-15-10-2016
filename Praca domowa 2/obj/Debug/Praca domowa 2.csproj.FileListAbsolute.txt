@@ -1,0 +1,6 @@
+D:\C#\Praca domowa 2\Praca domowa 2\bin\Debug\Praca domowa 2.exe.config
+D:\C#\Praca domowa 2\Praca domowa 2\obj\Debug\Praca domowa 2.csprojResolveAssemblyReference.cache
+D:\C#\Praca domowa 2\Praca domowa 2\bin\Debug\Praca domowa 2.exe
+D:\C#\Praca domowa 2\Praca domowa 2\bin\Debug\Praca domowa 2.pdb
+D:\C#\Praca domowa 2\Praca domowa 2\obj\Debug\Praca domowa 2.exe
+D:\C#\Praca domowa 2\Praca domowa 2\obj\Debug\Praca domowa 2.pdb
